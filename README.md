@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="src/app/icon.jpg" alt="CIA Labs Logo" width="150"/>
+</p>
 # CIA Labs
-
-![CIA Labs Logo](app/icon.jpg)
 
 ## Project Overview
 
